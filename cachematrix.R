@@ -28,5 +28,4 @@ s <- x$getsolve()
   s <- solve(data, ...)
   x$setsolve(s)
   s
-
 }
